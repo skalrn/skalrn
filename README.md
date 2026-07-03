@@ -10,7 +10,7 @@ Engineer and engineering manager. 17 years building payments, trading, and e-com
 
 ## What I work with
 
-Agent memory, pre-action guardrails, RAG, MCP servers · Neo4j, Qdrant, Redis Streams · Claude Code, Ollama · Java, Node/TypeScript, Next.js · AWS (Lambda, S3, EC2)
+Java, Node/TypeScript, Next.js · distributed systems, microservices, event-driven · PostgreSQL, MySQL, SQL Server · AWS (EC2, S3, Lambda, SQS), Docker, CI/CD · RAG, MCP servers, agent memory & guardrails · Neo4j, Qdrant, Claude Code, Ollama
 
 ## Background
 
