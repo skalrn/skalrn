@@ -1,6 +1,6 @@
 # Deepak Kollipalli
 
-Engineer and engineering manager building the trust layer for AI that acts on your behalf. 17 years in payments, trading, and e-commerce; now focused on AI agents and the guardrails they need. Based in Vancouver, BC.
+Engineer and engineering manager. 17 years building payments, trading, and e-commerce systems and leading distributed teams. Lately I work across AI-assisted engineering and AI agent tooling. Based in Vancouver, BC.
 
 ## What I build
 
